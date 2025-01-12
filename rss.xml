@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:yandex="http://news.yandex.ru"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:turbo="http://turbo.yandex.ru"
+     version="2.0">
+    <channel>
+        <title>Odyssey Exchange - Первая в мире биржа мем-токенов</title>
+        <link>https://ody.com.ru</link>
+        <description>Odyssey Exchange - первая в мире биржа мем-токенов. Торгуйте мем-токенами безопасно и легко.</description>
+        <language>ru</language>
+        <item turbo="true">
+            <title>Odyssey Exchange - Первая в мире биржа мем-токенов</title>
+            <link>https://ody.com.ru</link>
+            <turbo:content>
+                <![CDATA[
+                    <header>
+                        <h1>Odyssey Exchange</h1>
+                        <h2>Первая в мире биржа мем-токенов</h2>
+                    </header>
+                    <p>Добро пожаловать на Odyssey Exchange - инновационную платформу для торговли мем-токенами.</p>
+                    <button formaction="https://ody.com.ru/register">Начать торговлю</button>
+                    <div data-block="widget-feedback" data-stick="false">
+                        <div data-block="chat" data-type="whatsapp" data-url="https://wa.me/XXXXXXXX"></div>
+                        <div data-block="chat" data-type="telegram" data-url="https://t.me/OdysseyExchange"></div>
+                    </div>
+                ]]>
+            </turbo:content>
+            <pubDate>Sun, 12 Jan 2025 11:55:51 +0200</pubDate>
+        </item>
+    </channel>
+</rss>
