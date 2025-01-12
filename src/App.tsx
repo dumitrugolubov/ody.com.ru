@@ -10,7 +10,7 @@ function App() {
         <title>Odyssey Exchange - Первая в мире биржа мем-токенов | Криптовалютная биржа</title>
         <meta name="description" content="Odyssey Exchange - инновационная криптовалютная биржа для торговли мем-токенами. 0% комиссия на споте, 10% возврат при ликвидациях, до 50% дохода от рефералов." />
         <meta name="keywords" content="Odyssey Exchange, биржа одиссея, odyssey биржа, odyssey крипто, мем-токены, криптовалютная биржа, торговля криптовалютой" />
-        <link rel="canonical" href="https://odysseyexchange.com" />
+        <link rel="canonical" href="https://ody.com.ru" />
         <meta property="og:title" content="Odyssey Exchange - Первая в мире биржа мем-токенов" />
         <meta property="og:description" content="Инновационная криптовалютная биржа с 0% комиссией на споте и высоким реферальным доходом." />
         <meta property="og:type" content="website" />
